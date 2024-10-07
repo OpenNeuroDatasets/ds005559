@@ -1,0 +1,24 @@
+{
+  "Name": "Item and spatial pattern separation",
+  "BIDSVersion": "1.4.1",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Zsuzsanna Nemecz",
+    "Attila Keresztes"
+  ],
+  "Acknowledgements": "n/a",
+  "HowToAcknowledge": "n/a",
+  "Funding": [
+    "Hungarian National Research, Development and Innovation Office (FK128648)",
+    "HUN-REN (grant 0708-21 515 AT)"
+  ],
+  "EthicsApprovals": [
+    " Ethical Committee of the Medical Research Council, Hungary (ethics approval number: OGYÉI/28291-2/2020)"
+  ],
+  "ReferencesAndLinks": [
+    "OSF Link to be added",
+    "https://www.attilakeresztes.com/"
+  ],
+  "DatasetDOI": "n/a"
+}
